@@ -4,7 +4,7 @@
 }
 
 .colour-border{
-  border: 3px solid lightblue;
+  border: 3px solid rgb(13, 255, 33);
   padding: 10px;
 }
 
@@ -14,6 +14,6 @@
 
 body{
   padding: 10px;
-  background-color: navy;
+  background-color: black;
   color: white;
 }
